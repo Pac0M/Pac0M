@@ -1,7 +1,7 @@
 <h1 align="center">Hola soy Pac0</h1>
 <h3 align="center">Un desarrollador apasionado de Argentina</h3>
 
-- 🔭 Actualmente estoy trabajando en [Invasión Zombie](https://discord .gg/vM2vHvtfzZ)
+- 🔭 Actualmente estoy trabajando en Invasión Zombie https://discord .gg/vM2vHvtfzZ
 
 - 🌱 Actualmente estoy aprendiendo **Java**
 
