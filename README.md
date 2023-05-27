@@ -1,7 +1,7 @@
 <h1 align="center">Hola soy Pac0</h1>
 <h3 align="center">Un desarrollador apasionado de Argentina</h3>
 
-- 🔭 Actualmente estoy trabajando en Invasión Zombie https://discord .gg/vM2vHvtfzZ
+- 🔭 Actualmente estoy trabajando en [Invasión Zombie](https://discord .gg/vM2vHvtfzZ)
 
 - 🌱 Actualmente estoy aprendiendo **Java**
 
@@ -11,7 +11,6 @@
 
 <h3 align="left">Conectar conmigo:</h3>
 <p align="left">
-<a href="https://discord.gg/Pac0#0645" target="blank"><img align="center" src="https: //raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Pac0#0645" height="30" width="40" / ></a>
 </p>
 
 <h3 align="left">Idiomas y herramientas:</h3>
