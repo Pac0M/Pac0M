@@ -10,6 +10,7 @@
 - ⚡ Dato curioso **Tengo 17 años**
 
 <h3 align="left">Conectar conmigo:</h3>
+Discord : Pac0#0645
 <p align="left">
 </p>
 
