@@ -1,7 +1,7 @@
 <h1 align="center">Hola soy Pac0</h1>
 <h3 align="center">Un desarrollador en aprendizaje de Argentina</h3>
 
-- 🔭 Actualmente estoy trabajando en Invasión Zombie https://discord.gg/DgfCtNjErQ
+- 🔭 Actualmente estoy trabajando en Invasión Zombie https://discord.gg/DgfCtNjErQ (Nuevo nombre de la comunidad = War Blood)
 
 - 🌱 Actualmente estoy aprendiendo **Java**
 
