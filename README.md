@@ -5,8 +5,6 @@
 
 - 🌱 Actualmente estoy aprendiendo **Java**
 
-- ⚡Dato curioso **Tengo 17 años** , me introduci en este mundo a los 12 años iniciando un proyecto en SA-MP (San Andreas Multiplayer) en pawn.
-
 - ⚡ Conocimientos en Java , C++ , C#, HTML , CSS, Pawn.
 
 
